@@ -121,7 +121,7 @@ To configure Azure AD single sign-on with Powerschool Performance Matters, perfo
 
 ### Configure Powerschool Performance Matters Single Sign-On
 
-To configure single sign-on on **Powerschool Performance Matters** side, you need to send the downloaded **Federation Metadata XML** and appropriate copied URLs from Azure portal to [Powerschool Performance Matters support team](mailto:pmsupport@powerschoo.com). They set this setting to have the SAML SSO connection set properly on both sides.
+To configure single sign-on on **Powerschool Performance Matters** side, you need to send the downloaded **Federation Metadata XML** and appropriate copied URLs from Azure portal to [Powerschool Performance Matters support team](mailto:pmsupport@powerschool.com). They set this setting to have the SAML SSO connection set properly on both sides.
 
 ### Create an Azure AD test user
 
